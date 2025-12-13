@@ -28,7 +28,6 @@
   <img src="https://img.shields.io/badge/-FPGA-007ACC?style=flat&logo=xilinx&logoColor=white" />
   <img src="https://img.shields.io/badge/-RISC_V-504DFF?style=flat&logo=riscv&logoColor=white" />
 
-
   <br/>
 
   <h3 align="center">Data Science & AI</h3>
@@ -50,7 +49,7 @@
 
 </div>
 
-<div>
+<div align="center">
   <p>
     <a href="https://www.linkedin.com/in/manuelromanarruti/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
