@@ -4,7 +4,7 @@
   <h3>🚀⚡🛠️💻🤖🧠 Engineering Student</h3>
   
   <a href="[TU_PORTFOLIO]" target="_blank">
-    <img src="https://img.shields.io/badge/See%20more%20on%20my%20portfolio-black?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+    <img src="https://manuelromanarruti.github.io" alt="Portfolio" />
   </a>
 
 </div>
