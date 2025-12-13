@@ -3,8 +3,8 @@
   <h1>Hi there, I'm Manuel Roman Arruti </h1>
   <h3>🚀⚡🛠️💻🤖🧠 Engineering Student</h3>
   
-  <a href="[TU_PORTFOLIO]" target="_blank">
-    <img src="https://manuelromanarruti.github.io/" alt="Portfolio" />
+  <a href="https://manuelromanarruti.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_Site-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit Portfolio" />
   </a>
 
 </div>
