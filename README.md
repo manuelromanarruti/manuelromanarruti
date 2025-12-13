@@ -4,7 +4,7 @@
   <h3>🚀⚡🛠️💻🤖🧠 Engineering Student</h3>
   
   <a href="[TU_PORTFOLIO]" target="_blank">
-    <img src="https://manuelromanarruti.github.io" alt="Portfolio" />
+    <img src="https://manuelromanarruti.github.io/" alt="Portfolio" />
   </a>
 
 </div>
